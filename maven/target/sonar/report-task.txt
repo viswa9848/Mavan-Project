@@ -1,0 +1,6 @@
+projectKey=com.javacodegeeks.examples:maven-war-plugin-example
+serverUrl=http://34.207.53.196:9000
+serverVersion=7.2.1.14109
+dashboardUrl=http://34.207.53.196:9000/dashboard?id=com.javacodegeeks.examples%3Amaven-war-plugin-example
+ceTaskId=AWUKEAsTOR_Hn3ps4joH
+ceTaskUrl=http://34.207.53.196:9000/api/ce/task?id=AWUKEAsTOR_Hn3ps4joH
